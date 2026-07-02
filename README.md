@@ -64,5 +64,3 @@ The dataset contains order-level information, including:
 ## 🎯 Project Objective
 To analyze retail sales data and build an interactive Excel dashboard that helps stakeholders monitor sales performance, understand customer behavior, and identify business opportunities through data visualization and reporting.
 
----
-⭐ If you found this project useful, consider giving it a star!
